@@ -22,7 +22,7 @@ cloudcell-ai-support-pipeline/
 ├── main.py             # Pipeline simülasyon ve orkestrasyon dosyası
 └── cloudcell_support.db # SQLite veritabanı dosyası
 
-## 🛠️ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 1. Sanal ortamı aktifleştirin:
    ```powershell
