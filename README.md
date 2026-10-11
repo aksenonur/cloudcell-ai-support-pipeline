@@ -2,7 +2,7 @@
 
 CloudCell Telekomünikasyon A.Ş. için geliştirilmiş; VoIP, SMS (SMPP) ve IP Santral altyapılarında yaşanan teknik arızaları yapay zeka ile otomatik teşhis eden ve çözüm aksiyonu üreten kurumsal destek boru hattı (pipeline).
 
-## 🚀 Öne Çıkan Özellikler
+## Öne Çıkan Özellikler
 
 - **Çoklu Telekom Desteği:** VoIP (SIP/Codec), SMS (SMPP Gateway) ve IP Santral sorunları için özelleştirilmiş AI analiz motoru.
 - **Fail-Safe & Fallback Mimarisi:** OpenAI API anahtarı veya bağlantısı olmasa dahi kesintisiz çalışmayı sürdüren akıllı telekom simülasyon motoru.
@@ -10,7 +10,7 @@ CloudCell Telekomünikasyon A.Ş. için geliştirilmiş; VoIP, SMS (SMPP) ve IP 
 - **Kalıcı Depolama (SQLite):** İşlenen tüm analizlerin, teşhislerin ve aksiyon planlarının ilişkisel veritabanı arşivlenmesi.
 - **Raporlama & CLI İzleme:** Veritabanındaki aktif bilet durumlarını anlık olarak konsola raporlama yeteneği.
 
-## 📁 Proje Mimarisi
+##  Proje Mimarisi
 cloudcell-ai-support-pipeline/
 │
 ├── config/             # Yapılandırma ve çevre değişkenleri (.env)
